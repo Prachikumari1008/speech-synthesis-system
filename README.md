@@ -1,7 +1,9 @@
 # speech-synthesis-system
 
-Open your terminal and run the following command to start the Streamlit app: /* streamlit run app.py */
+Open your terminal and run the following command to start the Streamlit app: streamlit run app.py 
+
 This will start the Streamlit server and open a new tab in your default web browser showing the app.
+
 
 ## Explanation of the Code
 
