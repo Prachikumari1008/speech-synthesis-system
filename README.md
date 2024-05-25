@@ -25,3 +25,9 @@
        - Instructions for using the app.
   
 This script provides a dark-themed UI  for translating text from English to different Indian languages and converting the translated text to speech in your Streamlit application.
+
+
+![streamlit text to speech](https://github.com/Prachikumari1008/speech-synthesis-system/assets/85853135/2d8068fd-f1c6-4990-bef3-5f081d9f4ed2)
+
+![Text Warning ](https://github.com/Prachikumari1008/speech-synthesis-system/assets/85853135/ae6df83a-96cf-4cac-b294-6bd6db88a559)
+
