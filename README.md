@@ -7,16 +7,16 @@
 
 ## Explanation of the Code
 
-1. Imports: Import the necessary modules.
+1.  Imports: Import the necessary modules.
 
-2. translate_and_speak function: This function uses deep-translator to translate the text from English to the selected Indian language and gTTS to convert the translated text to speech, 
+2.  translate_and_speak function: This function uses deep-translator to translate the text from English to the selected Indian language and gTTS to convert the translated text to speech, 
    saving it as an MP3 file.
 
-3. Page Configuration: Set the page configuration for the Streamlit app.
+3.  Page Configuration: Set the page configuration for the Streamlit app.
 
-4. Custom CSS: Add custom CSS to style the app with a dark theme and a green button. The button's background color is set to green, and it changes to a darker green when hovered over.
+4.  Custom CSS: Add custom CSS to style the app with a dark theme and a green button. The button's background color is set to green, and it changes to a darker green when hovered over.
 
-5. Streamlit UI:
+5.  Streamlit UI:
        - The title and description of the app.
        - A text area for users to input the text they want to translate from English and convert to speech.
        - A dropdown to select the destination language for the translation and text-to-speech conversion, focusing on Indian languages.
